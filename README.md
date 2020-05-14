@@ -2,7 +2,9 @@
 
 ## Installation
 
-TODO
+```sh
+pip install -i https://test.pypi.org/simple/ my-lambdata-pt5
+```
 
 ## Usage
 
